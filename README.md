@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riya9927&show_icons=true&theme=radical" alt="Riya's GitHub stats" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya9927&theme=radical" width="450"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=riya9927&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 
 </p>
 
